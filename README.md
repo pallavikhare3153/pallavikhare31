@@ -19,9 +19,9 @@
 
 <br>
 
-👨‍💻 **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
+👨‍💻 My Tech Profile -  **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
 
-📄 **[pallavikhareresume](https://drivepallavikhare.com)**
+📄 My Resume -  **[pallavikhareresume](https://drivepallavikhare.com)**
 
 
 <br>
