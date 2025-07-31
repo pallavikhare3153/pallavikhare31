@@ -19,9 +19,9 @@
 
 <br>
 
-👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
+👨‍💻 **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
 
-📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)**
+📄 **[pallavikhareresume](https://drivepallavikhare.com)**
 
 
 <br>
