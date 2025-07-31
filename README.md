@@ -18,11 +18,12 @@
  to every project and task. I strive to make a positive impact through creativity,  responsibility, and a comprehensive skill set.
 
 <br>
+<div align="center">
+ 
+👨‍💻 My Website **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
 
-👨‍💻 My Website -  **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
-
-📄 My Resume -  **[pallavikhareresume](https://drivepallavikhare.com)**
-
+📄 My Resume **[pallavikhareresume](https://drivepallavikhare.com)**
+</div>
 
 <br>
 <div align="center">
