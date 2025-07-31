@@ -21,8 +21,6 @@
 
 👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
 
-📫 How to reach me **[contactpallavikhare.web](https://contactpallavikhare.web.app)**
-
 📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)**
 
 
