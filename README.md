@@ -20,9 +20,7 @@
 <br>
 <div align="center">
  
-👨‍💻 My Website **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
-
-📄 My Resume **[pallavikhareresume](https://drivepallavikhare.com)**
+**👨‍💻 My Website [pallavitechprofile.web](https://pallavitechprofile.web.app)** 
 </div>
 
 <br>
